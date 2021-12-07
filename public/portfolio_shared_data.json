@@ -1,20 +1,20 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Keia Watkins",
+      "titles": [ "Front-end Developer", "Writer", "Biz Ops Specialist", "Mobile App Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/keiallis",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "twitter",
+          "url": "https://www.twitter.com/real_illest",
+          "class": "fab fa-twitter"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "headshotmiami_edited.jpg"
     },
     "skills": {
       "icons": [
