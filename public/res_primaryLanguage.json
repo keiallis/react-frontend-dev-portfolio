@@ -1,120 +1,121 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Keia! I am an artist so I do all the things and I am pretty amazing at some of them. I love to learn new things and find diffrent ways to express myself and communicate effectively. I come from an amazingly huge family that means the world to me. As the oldest of eight with no children of my own, my nieces and nephews give me life and you can always catch Auntie Keia chilling at family events. My background has allowed me to work in many industries on a variety of levels. During the pandemic, I started my own publication company because life is too short to be miserable. Currently, I build websites and provide business operational support to fellow entrepreneurs to fund my dreams of writing for the screen.💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Interests",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Special Events",
+      "startDate": "",
+      "description": "One of my favorite things to do is plan special events for my family. Somebody's gotta make sure all the baby showers, graduations, holiday barbeques, bridal showers, and bachelorette trips go off without a hitch!",
+      "images": [
+        "images/portfolio/events/Ribbon.jpg",
+        "images/portfolio/events/PoppiAudriMason.jpg",
+        "images/portfolio/events/jillandrewtaylor.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "",
+          "name": ""
+        },
+        {
+          "class": "",
+          "name": ""
+        },
+        {
+          "class": "",
+          "name": ""
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Hobbies",
-        "startDate": "",
-        "description": "My latest hobby is creating movie posters along with book and magazine covers. Check out the products of my imagination.",
-        "images": [
-          "images/portfolio/hobbies/SocietyMag.jpg",
-          "images/portfolio/hobbies/switchmovieposter.jpg",
-          "images/portfolio/hobbies/theworldisyours.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "",
-        "description": "I have always had an eye for detail and that is reflected most in my photography. As a teenager with so many kids at home, I often got away with murder because nobody paid attention to the small stuff. I have yet to meet anyone who truly appreciats the little things like I do. I learned from my military experience that the devil is in the details...now, I live for the minutae of mundane tasks.",
-        "images": [
-          "images/portfolio/photography/IMG_0566.jpg",
-          "images/portfolio/photography/IMG_7962.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "Events",
-        "startDate": "",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/events/jillandrewtaylor.jpg",
-          "images/portfolio/events/PoppiAudriMason.jpg",
-          "images/portfolio/events/Ribbon.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "Photography",
+      "startDate": "",
+      "description": "I have always had an eye for detail and that is reflected most in my photography. As a teenager with so many kids at home, I often got away with murder because nobody paid attention to the small stuff. I have yet to meet anyone who truly appreciats the little things like I do. I learned from my military experience that the devil is in the details...now, I live for the minutae of mundane tasks.",
+      "images": [
+        "images/portfolio/photography/img_0566.jpg",
+        "images/portfolio/photography/img_7962.jpg",
+        "images/portfolio/photography/srossbrowne.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "",
+          "name": ""
+        },
+        {
+          "class": "",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "title": "Hobbies",
+      "startDate": "",
+      "description": "My latest hobby is creating movie posters along with book and magazine covers. Check out the products of my imagination.",
+      "images": [
+        "images/portfolio/hobbies/switchmovieposter.jpg",
+        "images/portfolio/hobbies/SocietyMag.jpg",
+        "images/portfolio/hobbies/theworldisyours.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "",
+          "name": ""
+        },
+        {
+          "class": "",
+          "name": ""
+        },
+        {
+          "class": "",
+          "name": ""
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Kreed Publications",
+      "title": "Freelance Writer",
+      "years": "07.2020 - present",
+      "mainTech": [
+        "React"
+      ],
+      "technologies": [
+        "Photoshop",
+        "InDesign",
+        "JavaScript",
+        "Bootstrap",
+        "G Suite",
+        "Final Cut Pro",
+        "OSX",
+        "Zoom"
+        
+      ]
+    },
+    {
+      "company": "General Services Administration",
+      "title": "Program Analyst",
+      "years": "08.2018 - 03.2019",
+      "mainTech": [
+        "Amazon Web Services"
+      ],
+      "technologies": [
+        "G Suite",
+        "Trello",
+        "Zoom",
+        "JavaScript",
+        "OSX"
+      ]
+    }
+  ]
+}
